@@ -19,4 +19,3 @@ local    0.078GB
 switched to db be-mean
 > db.restaurantes.find({}).count()
 25359
->
