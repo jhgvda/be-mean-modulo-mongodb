@@ -1,4 +1,4 @@
-# MongoDB - Aula 01 - Exercício
+# MongoDB - Aula 01 - ExercÃ­cio
 autor: Jonatan H. Garcia (jhgvda)
 
 ## Importando os restaurantes
@@ -10,7 +10,6 @@ antes.json
 2015-11-10T00:01:47.542-0200    imported 25359 documents
 
 ## Contando os restaurantes
-
 
 > show dbs
 be-mean  0.078GB
